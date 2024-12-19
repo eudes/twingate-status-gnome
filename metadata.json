@@ -3,7 +3,8 @@
   "description": "Shows a status icon on the Gnome top bar indicating Twingate's connection status. Clicking on the menu entry starts or stops the connection. Requires Twingate and systemd.",
   "uuid": "twingate-status@eudes.es",
   "shell-version": [
-    "46"
+    "46",
+    "47"
   ],
   "url": "https://github.com/eudes/twingate-status-gnome",
   "donations": {
